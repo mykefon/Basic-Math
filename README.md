@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Basic-Math (web)   
-=======
-
->>>>>>> ee7f7754e4af4fe2c05b3dd763aa31c3097d23ad
+## Basic-Math (web)   
 
 A simple Go server/microservice example for [Docker's Go Language Guide](https://docs.docker.com/language/golang/).
 
