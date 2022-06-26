@@ -1,4 +1,4 @@
-# Basic-Math
+# Basic-Math (web)
 
 A simple Go server/microservice example for [Docker's Go Language Guide](https://docs.docker.com/language/golang/).
 
@@ -13,15 +13,16 @@ Planned:
 
 * Building Go modules and Docker images with `goreleaser`
 
-## Want _moar_?!
+## Want _more_?!
 
 There is a more advanced example in [olliefr/docker-gs-ping-roach](https://github.com/olliefr/docker-gs-ping-roach) using [CockroachDB](https://github.com/cockroachdb/cockroach).
 
 ## Contributing
 
-This was written for an _introduction_ section of the Docker tutorial and as such it favours brevity and pedagogical clarity over robustness. 
+This was written for an _introduction_ section of the Docker tutorial and as such it favours brevity and pedagogical clarity over robustness.
 
-Thus, feedback is welcome, but please no nits or pedantry. Ain't nobody got time for that 
+##This was create based on the tuitorial from 
+* https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
 
 ## License
 
